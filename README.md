@@ -1,13 +1,13 @@
-# Responsive Construction Website
-## [Watch it on youtube](https://youtu.be/IOyZO_l94ME)
-### Responsive Construction Website
+# Dash Constructions Official Website
+### Let your Dreams To Be Constructed
 
-- Responsive Construction Website Design Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Contact for all types of construction works
+- House Planning (2D and 3D elevation according to Vastu)
+- Hiring Construction Equipments
+- Materials Supply
+- Town Planning Approval
+- Interior design and Kerela pattern shading
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+💙 Contact us @ (parasdash91@gmail.com)
 
-![preview img](/preview.png)
+![preview img](/preview.jpg) 
