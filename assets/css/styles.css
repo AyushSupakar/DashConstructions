@@ -519,6 +519,7 @@ img {
 
 .projects__container{
  padding-block: 1.5rem 3rem;
+
 }
 .projects__card{
   background-color: var(--container-color);
@@ -692,6 +693,11 @@ margin-block: .5rem;
   font-size: var(--small-font-size);
   margin-top: 4rem;
 }
+.webdevem{
+  font-size: .6rem;
+}
+.webdevn{
+  font-size: .8rem;}
 /*=============== SCROLL BAR ===============*/
 ::-webkit-scrollbar {
   width: .6rem;
