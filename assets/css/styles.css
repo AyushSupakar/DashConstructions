@@ -543,6 +543,19 @@ margin-block: .5rem;
   color: var(--text-color);
   margin-bottom: 1.5rem;
 }
+/* .projects__card:last-child:nth-child(3n - 1) {
+  grid-column-end: -2;
+}
+
+.projects__card:nth-last-child(2):nth-child(3n + 1) {
+  grid-column-end: 4;
+} */
+
+/* Dealing with single orphan */
+
+/* .projects__card:last-child:nth-child(3n - 2) {
+  grid-column-end: 3;
+} */
 /*=============== CONTACT ===============*/
 
 .contact__container{
@@ -956,6 +969,9 @@ margin-block: .5rem;
   }
   .projects__card{
     border-width: 3px;
+  }
+  .projects__card:last-child:nth-child(3n - 2) {
+    grid-column-end: 3;
   }
   .projects__data{
     padding: 2rem 1.5rem 4rem;
