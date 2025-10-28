@@ -549,6 +549,11 @@ margin-block: .5rem;
   color: var(--text-color);
   margin-bottom: 1.5rem;
 }
+
+.plans__img{
+  width: 100%;
+  height: 200px;
+}
 /* .projects__card:last-child:nth-child(3n - 1) {
   grid-column-end: -2;
 }
@@ -616,12 +621,12 @@ margin-block: .5rem;
 .contact__social{
   display: flex;
   justify-content: center;
-  column-gap: 1.5rem;
-  margin-top: 1.5rem;
+  column-gap: 2rem;
+  margin-top: 2rem;
 }
 
 .contact__social-link{
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: var(--first-color);
   transition: transform .4s;
 }
